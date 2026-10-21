@@ -1,2 +1,2 @@
 # sweet-lift-taxi---prediccion_demanda_taxis
-Permite anticipar la demanda de taxis en aeropuertos durante horas  pico, optimizando la asignación de conductores, reduciendo tiempos de espera y  mejorando la eficiencia operativa.
+Construir un modelo predictivo capaz de estimar la cantidad de pedidos de taxis en aeropuertos para la próxima hora, con el fin de optimizar la disponibilidad de conductores durante las horas pico y mejorar la eficiencia operativa del servicio. El modelo debe cumplir con el criterio de calidad definido: un RMSE en el conjunto de prueba menor o igual a 48.
